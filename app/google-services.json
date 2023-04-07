@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707888682560",
+    "project_id": "sandbox-ccbb9",
+    "storage_bucket": "sandbox-ccbb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707888682560:android:9171b686a76d8c3a6571a5",
+        "android_client_info": {
+          "package_name": "com.example.sandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707888682560-i9i6h9bi2dj9d20m6clkdngeoqgs7gmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JPjQUlZBRu9hfqfZ6WRAfuXgcp5aEFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707888682560-i9i6h9bi2dj9d20m6clkdngeoqgs7gmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
